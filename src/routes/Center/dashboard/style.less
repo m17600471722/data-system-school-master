@@ -1,0 +1,124 @@
+.Dashboard .top-info{
+	.text{
+		color: #464A53;
+		font-size: 20px;
+		text-align: right;
+		padding-top: 10px;
+	}
+	.ant-avatar > img{
+		width: 43.5px;
+		height: 48px;
+	}
+	.Access{
+		display: flex;
+		align-items: center;
+		margin-bottom: 7px;
+		font-size: 16px;
+	}
+	.FontSize{
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+	.ant-card-meta::before,.ant-card-meta::after{
+		content: none;
+	}
+}
+.wxVisit{
+	background: #fff;
+	margin-top: 30px;
+	padding: 33px 33px 50px 33px;
+	display: flex;
+	justify-content: space-between;
+	.chartBox{
+		width: 90%;
+	}
+	.quantity{
+		margin-top: 50px;
+		p{
+			color: #464A53;
+			font-size: 15px;
+			&::before {
+				display: inline-block;
+				width: 22px;
+				height: 12px;
+				background: #29C4B2;
+				content: "";
+				vertical-align: 1px;
+				margin-right: 10px;
+			}
+		}	
+	}
+	.quantity p:last-child{
+		&::before {
+			background: #7F63F4;
+		}
+	}
+}
+.Total{
+	margin-top: 30px;
+	display: flex;
+	justify-content: space-between;
+	.userTotal{
+		background: #fff;
+		width: 350px;
+		margin-right: 25px;
+		p{
+			padding: 15px 0 20px 17px;
+			font-size: 22px;
+			color:#464A53;
+			font-weight:bold;
+			margin: 0;
+		}
+	}
+	.TopHospital{
+		width: 100%;
+		.topTitle{
+			height: 63px;
+			margin: 0;
+			background: #E7E6F9;
+			padding-left: 20px;
+			line-height: 63px;
+			font-size: 22px;
+			color:rgb(127, 99, 244);
+			font-weight:bold
+		}
+	}
+	.ant-table-wrapper{
+		background: #fff;
+	}
+}
+.schedule{
+	margin-bottom: 10px;
+	.Bar { 
+		position: relative; 
+		height: 10px; 
+		background: #ccc;
+		border-radius: 10px;
+		div{
+			position: absolute;
+			height: 10px;
+			border-radius: 10px;
+		}
+	}
+}
+.ProgressName{
+	display: flex;
+	margin-top: 15px;
+	div{
+		flex: 1;
+	}
+	.signInNum{
+		font-size:22px;
+		font-weight:500;
+		color:rgba(70,74,83,1);
+		font-weight: bold;
+	}
+}
+.TopHospital .ant-table-thead > tr, .TopHospital .ant-table-tbody > tr{
+	height: 66px;
+}
+.Dashboard .ant-table-thead > tr >th{
+	background: #EFF2F5;
+}
+

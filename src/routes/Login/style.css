@@ -1,0 +1,113 @@
+#login-page{
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background:#f3f3f3;
+    z-index: 99;
+}
+.right-btn{
+  position: fixed;
+  right: 50px;
+  bottom: 150px;
+}
+.iframe-box{
+  margin: auto;
+}
+.login-iframe{
+  display: block;
+  margin: auto;
+  width: 450px;
+  height: 450px;
+  position: relative;
+  top: 10%;
+}
+#backgroundBox{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: calc(100vw);
+  height: calc(100vh);
+  background: url('../../assets/img/nom-bg.png') no-repeat center #f0f2f5;
+  background-size:cover;
+  transition:all .5s;
+}
+#login-page .container{
+    position: relative;
+    width: 240px;
+    height: 270px;
+    padding: 100px 40px 40px 40px;
+    box-sizing: content-box;
+    border: 1px solid #ddd;
+    box-shadow: 5px 8px 10px 1px #999;
+}
+.footText{
+  position: fixed;
+  bottom: 50px;
+}
+
+#login-page .box{
+    position: absolute;
+    top: 25%;
+    left: 20%;
+    transition: all 1s;
+}
+.footer{
+  padding-top: 20px;
+}
+#components-form-demo-normal-login .login-form {
+    max-width: 300px;
+}
+#components-form-demo-normal-login .login-form-forgot {
+  float: right;
+}
+.showBox .login-form-button {
+  width:100%;
+  height:60px;
+  background:#7F63F4;
+  font-size: 19px;
+  border-color: #7F63F4;
+  box-shadow:-5px 9px 37px -15px rgba(8,10,22,1);
+  border-radius: 10px;
+}
+.showBox .ant-btn-primary:hover, .showBox .ant-btn-primary:focus{
+  background:#7F63F4;
+  border-color: #7F63F4;
+}
+.showBox .ant-input{
+  height: 56px;
+  background:rgba(248,251,255,1);
+  border-radius:5px;
+  border:1px solid rgba(214,214,214,1);
+}
+.loginTitle{
+  font-size:33px;
+  font-weight:500;
+  color:rgba(70,74,83,1);
+  line-height:59px;
+  text-align: center;
+}
+.Title{
+  position: absolute;
+  display: flex;
+  justify-content: flex-start;
+  top: 8%;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 42px;
+  color: #464A53;
+  align-items: center;
+}
+.Title p{
+  margin: 0;
+  font-weight:500;
+}
+.Title img{
+  width: 61px;
+  height: 60px;
+  margin-left: 21px;
+} 

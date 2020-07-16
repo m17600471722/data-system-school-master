@@ -1,0 +1,149 @@
+{
+  "id": "1910627",
+  "name": "运营平台",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15904124",
+      "name": "其他-02",
+      "font_class": "qita-02",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "15873667",
+      "name": "通知-11",
+      "font_class": "tongzhi-11",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "15873207",
+      "name": "数据仪表盘",
+      "font_class": "shujuyibiaopan1",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "15872987",
+      "name": "用户画像",
+      "font_class": "yonghuhuaxiang",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "15872988",
+      "name": "用户活跃度",
+      "font_class": "yonghuhuoyuedu",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "15872989",
+      "name": "订单管理",
+      "font_class": "dingdanguanli",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "15872990",
+      "name": "用户留存",
+      "font_class": "yonghuliucun",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "15872991",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "15872992",
+      "name": "角色申请",
+      "font_class": "jiaoseshenqing",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "15872993",
+      "name": "行为轨迹",
+      "font_class": "hangweiguiji",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "15872994",
+      "name": "用户管理",
+      "font_class": "yonghuguanli",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "15872995",
+      "name": "权限申请",
+      "font_class": "quanxianshenqing",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "15870600",
+      "name": "其他",
+      "font_class": "qita1",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "15870469",
+      "name": "直播课程",
+      "font_class": "zhibokecheng",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "15870316",
+      "name": "视频课程",
+      "font_class": "shipinkecheng",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "15870168",
+      "name": "面授课程",
+      "font_class": "mianshoukecheng",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "15869994",
+      "name": "医院管理",
+      "font_class": "yiyuanguanli",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "15869845",
+      "name": "孕校中台",
+      "font_class": "yunxiaozhongtai1",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "15869741",
+      "name": "公众号",
+      "font_class": "gongzhonghao",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "15869421",
+      "name": "孕校云课堂",
+      "font_class": "yunxiaoyunketang",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    }
+  ]
+}
